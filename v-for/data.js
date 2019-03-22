@@ -1,4 +1,4 @@
-[
+export default [
   { "name": "Alison Marinho", "signum": "zaliraf" },
   { "name": "Edy Segura", "signum": "xedndav" },
   { "name": "Leidiane Cunha", "signum": "zelilei" },
