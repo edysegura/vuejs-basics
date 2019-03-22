@@ -6,3 +6,6 @@ const myApp = new Vue({
     teamMembers: data
   }
 })
+
+
+// setInterval(() => myApp.teamMembers.reverse(), 1000);
